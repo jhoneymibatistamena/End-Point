@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/03 12:59:57.000.112,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/07/03 12:59:57.000.439,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/07/03 13:00:41.000.621,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit5.pas=C:\Users\Lenovo\Downloads\Nueva carpeta (3)\Unit5.pas</Transaction>
+    <Transaction>2023/07/03 13:00:42.000.786,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\Lenovo\Downloads\Nueva carpeta (3)\Unit6.dfm</Transaction>
+    <Transaction>2023/07/03 13:00:42.000.786,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\Lenovo\Downloads\Nueva carpeta (3)\Unit6.pas</Transaction>
+    <Transaction>2023/07/03 13:00:43.000.905,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Lenovo\Downloads\Nueva carpeta (3)\Project3.dproj</Transaction>
+    <Transaction>2023/07/11 16:02:40.000.293,C:\Users\Lenovo\Downloads\Nueva carpeta (3)\Project3.dproj=C:\Users\Lenovo\Downloads\Nueva carpeta (3)\jamensoftapi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
